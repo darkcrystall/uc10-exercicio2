@@ -12,5 +12,5 @@ function encontrarMaior(numeros) {
     return maior
 }
 
-let lista = [-10, -3, -50, -1]
+let lista = [-10, -3, -50, -1, 10, 2, 3, 20]
 console.log("Maior número:", encontrarMaior(lista))
