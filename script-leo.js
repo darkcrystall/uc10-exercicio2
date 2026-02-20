@@ -1,7 +1,7 @@
 // Função para encontrar o maior número de um array
 
 function encontrarMaior(numeros) {
-    let maior = 0
+    let maior = numeros[0]
 
     for (let i = 0; i < numeros.length; i++) {
         if (numeros[i] > maior) {
