@@ -2,4 +2,4 @@ function retornarNoConsole (mensagem) {
     console.log(mensagem)
 }
 
-retornarNome();
+retornarNoConsole("Hello world!");
